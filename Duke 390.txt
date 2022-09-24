@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<title style="background-color:yellow;color:black;">KTM</title>
+<style>
+body {
+   background-image:url('https://i.pinimg.com/736x/7c/ac/bb/7cacbb5faf9eda16cf99ba4215d9c7b7.jpg');
+}
+</style>
+</head>
+<body>
+
+<a href="https://en.wikipedia.org/wiki/KTM_390_series">For more info Visit Google</a>
+
+<h1 style="color:white;font-size:300%;"><b>DUKE 390-ABOUT</b></h1>
+<p style="color:white;font-size:200%;"><i>The KTM 390 Duke and RC 390 are <mark>373.2 cc</mark>displacement single-cylinder engine motorcycles 
+assembled by Bajaj Auto, and KTM Asia Motorcycle Manufacturing, Inc. for the Austrian manufacturer KTM.</i></p>
+
+
+<h2 style="color:white;font-size:300%;"><b>DIMENSION</b></h2>
+<p style="color:white;font-size:200%;"><i> L: 2,002 mm (78.8 in); <br>W: 873 mm (34.4 in); <br>H: 1,267 mm (49.9 in)</i></p>
+
+
+<h3 style="color:white;font-size:300%;"><b>RECENT UPDATES</b></h3>
+<p style="color:white;font-size:200%;"><i>2020 update-The bike was made BS6 compliant and a bi-directional quickshifter was added.
+2022 update-3 new colors are available for the 2022 Duke, which was launched in India at an ex-showroom price of ₹2.7 lakh (US$3,400).[22] In Austria,
+ it was released at €6,749 (US$7,982.04).</i></p>
+
+
+</body>
+</html>
+
